@@ -1,0 +1,23 @@
+.footer{
+    background-color: rgb(80,184,71);
+}
+.footer_block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer_block_logo{
+    width: 150px;
+}
+.footer_blok_links{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.footer_blok_links_item{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.footer_blok_links_item:hover{
+    color: rgb(245, 245, 245);
+}
