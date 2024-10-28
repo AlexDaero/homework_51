@@ -1,9 +1,12 @@
+import React from "react";
 import HeaderBlock from "./components/header/Header";
+import RandomNumbers from "./components/content/Content"
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <HeaderBlock />
+      <RandomNumbers />
     </div>
   );
 }

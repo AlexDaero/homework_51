@@ -11,11 +11,11 @@ const HeaderBlock = (props) => {
                         <img className="header_block_image" src={logo} alt="logo" />
                     </a>
                     <div className="header_block_link">
-                        <a className="header_block_link_item" href="#">Главное меню</a>
-                        <a className="header_block_link_item" href="#">Правила</a>
-                        <a className="header_block_link_item" href="#">Призы</a>
-                        <a className="header_block_link_item" href="#">Условия розыгрыша</a>
-                        <a className="header_block_link_item" href="#">Личный кабинет</a>
+                        <a className="header_block_link_item" href="https://www.stoloto.ru/5x36plus">Главное меню</a>
+                        <a className="header_block_link_item" href="https://www.stoloto.ru/5x36plus/rules">Правила</a>
+                        <a className="header_block_link_item" href="https://loxru.mirbb.com/">Призы</a>
+                        <a className="header_block_link_item" href="https://www.stoloto.ru/5x36plus/rules">Условия розыгрыша</a>
+                        <a className="header_block_link_item" href="https://www.stoloto.ru/5x36plus/game">Купить билет</a>
                     </div>
                 </div>
             </div>
